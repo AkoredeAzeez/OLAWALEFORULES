@@ -2,11 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Exo+2:wght@300;400;500;600;700&display=swap');
 
 /* --- Root Variables for Futuristic Engineering Palette --- */
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 20px;
-}
 
 :root {
     /* Primary Brand Colors - Cyber/Engineering Theme */
